@@ -1,5 +1,9 @@
 # Part 2 - Skill Internationalization (i18n), Interceptors and Error Handler
 
+In this lesson I learned about localization which is where we can translate strings into different languages, internalization which prepares the code to be localized in different languages, and interceptor function to check which language (it-IT, en-US).
+
+# Amazon Docs
+
 In this module we explain how to use i18next to do the i18n of your skill. We got rid of the sprintf module and now we're using plain i18next for string replacement We also introduce interceptors and attributtes. Start with brief intro to i18n. In this module we generate a locale specific Hello World (eg. Spanish, French, etc)
 
 ## Milestones
